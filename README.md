@@ -1,2 +1,4 @@
 # SNAKE
-A mini video game in Python
+The game Snake using Python (Pygame).
+
+I was inspired by MikhailLenko's youtube channel.
